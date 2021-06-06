@@ -1,6 +1,8 @@
-# youtubeui_tutorial
+# Youtube UI Tutorial
 
-A new Flutter project.
+![Preview Image](https://i.ibb.co/dtjp8yy/asdlfalshrfkladf-removebg-preview.png "Preview Image")
+
+Git Repo for a Youtube Tutorial / Youtube UI Tutorial Home Page
 
 ## Getting Started
 
